@@ -19,7 +19,7 @@
  In a _Distributed Denial-of-Service_ attack (_DDoS attack_), the incoming traffic flooding the victim originates. This effectively makes it impossible to connect to an other device.
 
 ## Supported Devices:
- This program is supported in all operating system like _Linux_, _Windows_, _Termux_ and _MacOs_. The Code is written in _python3_, so Don't worry it works well without any bugs.
+ This program is supported in all operating system like _Linux_, _Windows_, _MacOs_ and _Termux_. The Code is written in _python3_, so Don't worry it works well without any bugs.
 
 ## Installing (_Windows/Linux/MacOs/Termux_):
 ```
