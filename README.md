@@ -47,5 +47,8 @@ pip install pyfiglet
 
 This tool must be used in educational purposes only. Your decisions are not our responsibility.
 
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Ddos tool-yellow?style=for-the-badge&logo=github"></a>
+
 ##
 All material in this repository is in the public domain.
